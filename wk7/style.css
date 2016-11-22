@@ -23,3 +23,13 @@ header
     margin-right: auto;
 
 }
+
+#noMaxWidth{
+    width:1000px;
+    background-color: burlywood;
+}
+
+#hasMaxWidth{
+    max-width:1000px;
+    background-color:burlywood;
+}
